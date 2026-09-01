@@ -13,7 +13,7 @@ public class AsymmetricEncryptionExample {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
-        while(true) {
+        while (true) {
             System.out.println("SECRET SPY TEAM COMMUNICATION SYSTEM");
             System.out.println("======================================");
             System.out.println("1. Encrypt a message");
